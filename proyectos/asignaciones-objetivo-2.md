@@ -24,6 +24,8 @@
 | pablotl0          | evaanngiil               |
 | Carlosmapego8     | FerniCuesta              |
 | FerniCuesta       | Carlosmapego8            |
+| jacarmona364      | GaelGoncalba             |
+| GaelGoncalba      | jacarmona364             |
 
 
 

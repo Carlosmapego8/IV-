@@ -25,7 +25,7 @@ iniciales.
 | [Enlace de evaanngiil](https://github.com/lmchaves/OrganizarTaller/pull/14)                    | v0.2.4  | ✓         |
 | [Enlace de blancagiron](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/11) | v0.2.2  | ✓         |
 | <!-- Enlace de GaelGoncAlba -->                                                                |         |           |
-| [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)                 | v0.2.4  |           |
+| [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)                 | v0.2.4  | ✓         |
 | <!-- Enlace de oscargr-ugr -->                                                                 |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                         |         |           |
 | [Enlace de Matteo Imbrosciano](https://github.com/juanmaaf/MoneyController/pull/11)            | v0.2.1  | ✓         |
